@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1709454235 source:f:\xiao jan han jan wo senjai\motto\unsortedtype.cpp
+	"UnsortedType.h"
+
+1709452151 f:\xiao jan han jan wo senjai\motto\unsortedtype.h
+
+1709618733 source:f:\xiao jan han jan wo senjai\motto\main.cpp
+	<iostream>
+	"unsortedtype.h"
+	"UnsortedType.cpp"
+
+1709454235 f:\xiao jan han jan wo senjai\motto\unsortedtype.cpp
+	"UnsortedType.h"
+
