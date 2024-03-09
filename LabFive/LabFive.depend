@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1709985241 source:d:\lmao\labfive\sortedtype.cpp
+	"sortedtype.h"
+
+1709986029 d:\lmao\labfive\sortedtype.h
+
+1709991656 source:d:\lmao\labfive\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedType.cpp"
+
+1709985241 d:\lmao\labfive\sortedtype.cpp
+	"sortedtype.h"
+
